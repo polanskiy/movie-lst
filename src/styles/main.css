@@ -1,0 +1,20 @@
+@import 'fonts.css';
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.container {
+  background:red;
+}
+
+.logo {
+  background:url('../images/wp.png');
+  background-size: cover;
+  height: 200px;
+  width: 200px;
+}
+
+.app {
+  background: #fdf;
+}
